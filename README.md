@@ -1,4 +1,7 @@
 # Chakkrit-DigitRecognition
-# python performRecognition.py -i //Photo to Input -o //Photo to Output
+python performRecognition.py -i //input -o //Output
 
-Credit. therdpong1996,bikz05
+python generateClassifier.py
+
+
+# Credit. therdpong1996,bikz05
