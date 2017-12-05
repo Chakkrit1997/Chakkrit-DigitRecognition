@@ -1,5 +1,6 @@
 # Chakkrit-DigitRecognition
 python performRecognition.py -i //input -o //Output
+
 python generateClassifier.py
 
 
